@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1759300180966,
+      "tag": "0000_dapper_tomorrow_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1759300325867,
+      "tag": "0001_yummy_misty_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1759303975556,
+      "tag": "0002_closed_serpent_society",
+      "breakpoints": true
+    }
+  ]
+}
