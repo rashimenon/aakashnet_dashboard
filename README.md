@@ -106,13 +106,14 @@ tsconfig.json
 1. **Clone & install**  
    ```bash
    git clone <repo-url>
-   cd project
+   cd nasa-bharatnet-dashboard-main
    npm install
    ```
 
 2. **Assets**  
    - Place TLE data file in: `public/data/satellite-coords.txt`  
-   - Place Earth texture in: `public/textures/earth_daymap.jpg`  
+   - Place Earth texture in: `public/textures/earth_daymap.jpg`
+   - But here , we already attached those files
    
 
 3. **Start development server**  
